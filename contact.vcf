@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Majumdar;Subhojeet;;;
-FN:Subhojeet Majumdar
-ORG:Personal
-TITLE:
-TEL;TYPE=WORK,VOICE:+91 9711195948
-EMAIL:subhojeet.majumdar2@gmail.com
-ADR;TYPE=WORK:;;123 Street;Kolkata;;700001;India
-URL:www.google.com
+N:Gupta;Pooja;;;
+FN:Pooja Gupta
+ORG:Edme Insurance Broking Ltd.
+TITLE: Head Employee Business Consulting
+TEL;TYPE=WORK,VOICE:+91 8800266776
+EMAIL:pooja.gupta@edmeinsurance.com
+ADR;TYPE=WORK:;;VIOS Tower;Mumbai;;400037;India
+URL:https://www.linkedin.com/in/poojaguptaf/
 END:VCARD
